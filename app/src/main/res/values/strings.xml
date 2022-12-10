@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyCalculatrice</string>
+    <string name="Poids" translatable="true">weight</string>
+    <string name="CalcuteIMC" translatable="true">calculator IMC</string>
+    <string name="CalcuteIMG">calculator IMG</string>
+    <string name="Age" translatable="false">Age</string>
+    <string name="sexeF">women</string>
+    <string name="sexeH">men</string>
+    <string name="taille">size</string>
+
+
+
+</resources>

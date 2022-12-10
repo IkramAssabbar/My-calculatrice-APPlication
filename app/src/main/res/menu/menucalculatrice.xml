@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+ <item android:id="@+id/Scientifique"
+     android:title="Scientifique"
+     app:showAsAction="never" />
+
+ <item android:id="@+id/CalculateurIMC_IMG"
+     android:title="Calculateur IMC/IMG"
+     app:showAsAction="never" />
+ <item android:id="@+id/simple"
+     android:title="Simple"
+     app:showAsAction="never" />
+
+ <item android:id="@+id/convertisseur"
+     android:title="Convertisseur Metre"
+     app:showAsAction="never" />
+</menu>

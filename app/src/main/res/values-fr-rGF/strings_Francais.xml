@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ma Calculatrice</string>
+    <string name="Poids">Poids</string>
+    <string name="taille">Taille</string>
+    <string name="CalcuteIMC">Calculer IMC</string>
+    <string name="CalcuteIMG">Calculer IMG</string>
+    <string name="sexeF">Femme</string>
+    <string name="sexeH">Homme</string>
+
+
+
+
+</resources>
